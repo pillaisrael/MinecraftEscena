@@ -31,4 +31,4 @@ pixeladas y más de 200 cubos que forman árboles, paredes y una antorcha con lu
 - Autor: Israel Pilla
 
 ## Enlace al video de demostración
-[pega aquí el enlace cuando lo subas]
+https://www.kapwing.com/w/B0JQ9xVfvT
